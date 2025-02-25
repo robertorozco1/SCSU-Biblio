@@ -61,6 +61,7 @@ coverage.xml
 .flaskenv
 .secrets.toml
 instance.toml
+config.toml
 
 # Application data.
 /data
